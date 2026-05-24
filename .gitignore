@@ -1,0 +1,45 @@
+# Node / frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Python / backend
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Database / local volumes
+postgres_data/
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local cookies / temp files
+cookies.txt
+
+# C++ build outputs / judge binaries
+judge_bin
+*.out
+*.exe
+*.o
+*.so
+*.dylib
