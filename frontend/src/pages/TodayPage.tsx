@@ -195,7 +195,7 @@ function TodayPage() {
 
                 <div className="flex items-center gap-3 text-sm">
                     <a
-                        href="https://github.com/your-username/countercase"
+                        href="https://github.com/UmazingYes/countercase-public-ver"
                         target="_blank"
                         rel="noreferrer"
                         className="text-slate-400 hover:text-slate-100"

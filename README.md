@@ -139,7 +139,7 @@ You can run this locally too and add your own puzzles using the seeder script an
 ### 1) Clone
 
 ```bash
-git clone <urllater>
+git clone https://github.com/UmazingYes/countercase-public-ver
 cd Countercase
 ```
 
